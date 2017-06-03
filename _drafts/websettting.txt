@@ -1,0 +1,44 @@
+
+; <<>> DiG 9.8.3-P1 <<>> jamleck.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20275
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;jamleck.com.			IN	A
+
+;; ANSWER SECTION:
+jamleck.com.		77696	IN	A	117.55.227.94
+
+;; AUTHORITY SECTION:
+jamleck.com.		77696	IN	NS	ns1.jumba.net.au.
+jamleck.com.		77696	IN	NS	ns2.jumba.net.au.
+
+;; Query time: 5 msec
+;; SERVER: 192.168.0.1#53(192.168.0.1)
+;; WHEN: Sat Jun  3 23:27:20 2017
+;; MSG SIZE  rcvd: 93
+
+
+; <<>> DiG 9.8.3-P1 <<>> jamleck.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56453
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;jamleck.com.			IN	A
+
+;; ANSWER SECTION:
+jamleck.com.		77684	IN	A	117.55.227.94
+
+;; AUTHORITY SECTION:
+jamleck.com.		77684	IN	NS	ns1.jumba.net.au.
+jamleck.com.		77684	IN	NS	ns2.jumba.net.au.
+
+;; Query time: 40 msec
+;; SERVER: 192.168.0.1#53(192.168.0.1)
+;; WHEN: Sat Jun  3 23:27:32 2017
+;; MSG SIZE  rcvd: 93
+
