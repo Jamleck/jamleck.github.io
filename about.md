@@ -6,11 +6,11 @@ permalink: /about/
 
 Hello. I'm Jamleck.
 
-I'm a software engineer and hobbyist photographer who values collaboration, good design, continuous learning and test-driven development (TDD) but above all: continually shipping code.
+I am a Senior Software Engineer and Team Lead that loves working in teams solving real world problems and building great software. I help shape teams and develop strategies that can incrementally deliver value through leveraging technology and teamwork.
 
-I live and work in sunny Perth, Western Australia. I do a lot of everything, but I’m happiest solving problems with Python or C#.
+I have experience in most aspects of software engineering delivery including requirements gathering, project planning, design, development, testing, documentation, deployment, automation, support and technical leadership. My primary programming language is C#, however, I have experience using JavaScript, Python, PHP and other technologies to deliver successful software projects.
 
-You can  find me on [GitHub](https://github.com/Jamleck) or [StackOverflow](http://stackoverflow.com/users/180026/jamleck). For my most up-to-date resume, check out my [LinkedIn profile](https://www.linkedin.com/in/jamleck/).
+You can find me on [GitHub](https://github.com/Jamleck) or [StackOverflow](http://stackoverflow.com/users/180026/jamleck). For my most up-to-date resume, check out my [LinkedIn profile](https://www.linkedin.com/in/jamleck/).
 
 Thanks for stopping by.
 
